@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/reactEducWebsite/static/css/main.772281dc.chunk.css",
+    "main.js": "/reactEducWebsite/static/js/main.4e23f5e2.chunk.js",
+    "main.js.map": "/reactEducWebsite/static/js/main.4e23f5e2.chunk.js.map",
+    "runtime-main.js": "/reactEducWebsite/static/js/runtime-main.4718a690.js",
+    "runtime-main.js.map": "/reactEducWebsite/static/js/runtime-main.4718a690.js.map",
+    "static/css/2.818011ed.chunk.css": "/reactEducWebsite/static/css/2.818011ed.chunk.css",
+    "static/js/2.3e82e62a.chunk.js": "/reactEducWebsite/static/js/2.3e82e62a.chunk.js",
+    "static/js/2.3e82e62a.chunk.js.map": "/reactEducWebsite/static/js/2.3e82e62a.chunk.js.map",
+    "index.html": "/reactEducWebsite/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/reactEducWebsite/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.772281dc.chunk.css.map": "/reactEducWebsite/static/css/main.772281dc.chunk.css.map",
+    "static/js/2.3e82e62a.chunk.js.LICENSE.txt": "/reactEducWebsite/static/js/2.3e82e62a.chunk.js.LICENSE.txt",
+    "static/media/appdev5.42f1bdef.jpg": "/reactEducWebsite/static/media/appdev5.42f1bdef.jpg",
+    "static/media/digitalm.a5332cad.jpg": "/reactEducWebsite/static/media/digitalm.a5332cad.jpg",
+    "static/media/marketing.8a9cd39a.jpg": "/reactEducWebsite/static/media/marketing.8a9cd39a.jpg",
+    "static/media/softdev.f1343fac.jpg": "/reactEducWebsite/static/media/softdev.f1343fac.jpg",
+    "static/media/web22.64197f84.png": "/reactEducWebsite/static/media/web22.64197f84.png",
+    "static/media/webdev.6a3e55d4.jpg": "/reactEducWebsite/static/media/webdev.6a3e55d4.jpg",
+    "static/media/webimg.736476f9.png": "/reactEducWebsite/static/media/webimg.736476f9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4718a690.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.3e82e62a.chunk.js",
+    "static/css/main.772281dc.chunk.css",
+    "static/js/main.4e23f5e2.chunk.js"
+  ]
+}
